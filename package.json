@@ -10,23 +10,23 @@
       "lint": "next lint"
     },
     "dependencies": {
-      "@chakra-ui/react": "^1.6.8",
-      "@emotion/react": "^11.4.1",
-      "@emotion/styled": "^11.3.0",
-      "axios": "^0.23.0",
-      "framer-motion": "^4.1.17",
-      "millify": "^4.0.0",
-      "next": "11.1.2",
-      "nprogress": "^0.2.0",
-      "react": "17.0.2",
-      "react-dom": "17.0.2",
-      "react-horizontal-scrolling-menu": "^2.3.2",
-      "react-icons": "^4.2.0"
+      "@chakra-ui/react": "@latest",
+      "@emotion/react": "@latest",
+      "@emotion/styled": "@latest",
+      "axios": "@latest",
+      "framer-motion": "@latest",
+      "millify": "@latest",
+      "next": "@latest",
+      "nprogress": "@latest",
+      "react": "@latest",
+      "react-dom": "@latest",
+      "react-horizontal-scrolling-menu": "@latest",
+      "react-icons": "@latest"
     },
     "devDependencies": {
-      "babel-eslint": "^10.1.0",
-      "eslint": "7.32.0",
-      "eslint-config-next": "11.1.2"
+      "babel-eslint": "@latest",
+      "eslint": "@latest",
+      "eslint-config-next": "@latest"
     }
   
 }
